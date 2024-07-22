@@ -1,6 +1,6 @@
 # World Happiness Report Analysis
 
-This project analyzes the [World Happiness Report dataset](https://kaggle.com/datasets/unsdsn/world-happiness) to uncover insights into global happiness trends and factors contributing to global well-being.
+This project analyzes the [World Happiness Report dataset](https://kaggle.com/datasets/unsdsn/world-happiness) to uncover insights into global happiness trends and factors contributing to global well-being. The analysis can be found in `world-happiness-report-analysis.ipynb`.
 
 ## Key Features
 
