@@ -1,0 +1,34 @@
+# World Happiness Report Analysis
+
+This project analyzes the [World Happiness Report dataset](https://kaggle.com/datasets/unsdsn/world-happiness) to uncover insights into global happiness trends and factors contributing to national well-being.
+
+## Key Features
+
+- Data visualization of happiness scores and contributing factors
+- Correlation analysis between happiness and economic/social indicators
+- Analysis of happiness trends over time
+- K-means clustering to group countries based on happiness factors
+- Predictive modeling using Random Forest Regressor
+
+## Technologies Used
+
+- Python
+- Pandas for data manipulation
+- Matplotlib and Seaborn for data visualization
+- Scikit-learn for machine learning (K-means clustering, Random Forest)
+- Jupyter Notebooks for interactive analysis
+
+## Key Insights
+
+- Identified strongest correlations between happiness and economic/social factors
+- Discovered worldwide patterns in happiness scores
+- Clustered countries into 6 groups based on happiness factors, revealing patterns based on geolocation
+- Built a predictive model for happiness scores with feature importance analysis
+
+## Runnning locally
+
+- Clone repo and `cd` into that directory
+- Create a virtual environment: `pyenv virtualenv 3.10.6 <environment-name>`
+- Set the local environment: `pyenv local <environment-name>`
+- Install necessary packages `pip install -r requirements.txt`
+- Open the Jupyter Notebook using your preferred method and select your `<environment-name>` as the kernel.
